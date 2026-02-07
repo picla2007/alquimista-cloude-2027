@@ -1,0 +1,17 @@
+{
+  "name": "alquimista-100",
+  "version": "1.0.0",
+  "description": "Sistema de generación de landing pages con IA",
+  "main": "api/generate.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": ["landing", "copywriting", "ai", "marketing"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
